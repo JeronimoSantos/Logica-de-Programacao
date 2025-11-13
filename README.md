@@ -26,8 +26,8 @@ Aqui está uma simples tabela, númerada da primeira aula até a última aula co
 | Entrada e Saída de Dados | 03 | ✅ |
 | Instruções em Java | 04 | ✅ |
 | Funções em Java | 05 | ✅ |
-| Mecanismos de Buscas | 06 | 
-| Boas práticas de Mercado | 07 |
+| Mecanismos de Buscas | 06 | ✅ |
+| Boas práticas de Mercado | 07 | ✅ |
 
 ## 🎯 Objetivo Principal
 
