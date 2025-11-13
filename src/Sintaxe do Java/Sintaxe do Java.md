@@ -283,7 +283,7 @@ Algumas dessas estruturas são:
 
 ## 💡 Conteúdo Complementar
 
-**Título:** Curso em Vídeo | Curso de Java #01 | Aula 01
+**Título:** Curso de Java #01 | Aula 01
 
 **Canal:** Curso em Vídeo **Plataforma:** [```YouTube```](https://youtu.be/sTX0UEplF54?si=T1IyuabTrO5OVhIM)
 
