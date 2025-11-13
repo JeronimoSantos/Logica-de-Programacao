@@ -22,10 +22,10 @@ Aqui está uma simples tabela, númerada da primeira aula até a última aula co
 | Tópico da Aula | N° | Status |
 |----------------|----|--------|
 | Sintaxe do Java | 01 | ✅ |
-| Operadores em Java | 02 |
-| Entrada e Saída de Dados | 03 | 
-| Instruções em Java | 04 | 
-| Funções em Java | 05 |
+| Operadores em Java | 02 | ✅ |
+| Entrada e Saída de Dados | 03 | ✅ |
+| Instruções em Java | 04 | ✅ |
+| Funções em Java | 05 | ✅ |
 | Mecanismos de Buscas | 06 | 
 | Boas práticas de Mercado | 07 |
 
