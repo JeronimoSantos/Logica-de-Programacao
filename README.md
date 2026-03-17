@@ -1,4 +1,4 @@
-# 💻 Lógica de Programação
+# 💻 Lógica de Programação <img src="https://img.shields.io/badge/license-MIT-green" alt="licença" />
 
 Este repositório tem como objetivo consolidar, organizar e facilitar o estudo dos conteúdos da disciplina "Lógica de Programação". Ele serve como um material de referência e detalhando os tópicos passados em aula, auxiliando na performance das atividades do curso.
 
@@ -12,9 +12,9 @@ Este repositório tem como objetivo consolidar, organizar e facilitar o estudo d
 
 | Tecnologias | Versão |
 |-------------|--------|
-| Java        | v21.0.9 |
-| IntelliJ IDEA | v2025.2.4 |
-| Git         |  v2.46.0.windows.1 |
+| ![Java][java-url] | v21.0.9 |
+| ![IntelliJ IDEA][intellij-url] | v2025.2.4 |
+| ![GIT][git-url] | v2.46.0.windows.1 |
 
 ## 📑 Sumário das Aulas
 Aqui está uma simples tabela, númerada da primeira aula até a última aula com todos os tópicos, com o intuido de melhor organização e orientação na busca dos conteúdos e informações para ajudar nos estudos.
@@ -28,6 +28,7 @@ Aqui está uma simples tabela, númerada da primeira aula até a última aula co
 | Funções em Java | 05 | ✅ |
 | Mecanismos de Buscas | 06 | ✅ |
 | Boas práticas de Mercado | 07 | ✅ |
+**Legenda de Status:** ✅ Concluído | 📝 Em Revisão/Desenvolvimento | ❌ Pendente
 
 ## 🎯 Objetivo Principal
 
@@ -44,3 +45,8 @@ Sinta-se à vontade para sugerir correções ou melhorias! Se encontrar algum er
     git clone https://github.com/JeronimoSantos/Logica-de-Programacao.git
 ```
 2. Todos os conteúdos de cada aula foi separado e organizado em pastas com os tópicos das aulas.
+
+<!-- LINKS THE BAGDES -->
+[git-url]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[java-url]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
+[intellij-url]: https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
